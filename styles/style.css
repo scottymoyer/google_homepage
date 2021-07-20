@@ -1,0 +1,19 @@
+img {
+    margin: 25px auto;
+    display: block;
+}
+
+.center-element {
+    margin: 0 auto;
+    display: block;
+}
+
+.center-buttons {
+    text-align: center;
+}
+
+/*
+form {
+    margin: 10px auto;
+}
+*/
